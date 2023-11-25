@@ -437,7 +437,7 @@ form {
     display: column;
     justify-content: center;
     align-items: center;
-    border-radius: 5%;
+    border-radius: 10px;
     width: 30%;
     padding: 2%;
     margin: 8px;
